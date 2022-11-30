@@ -1,3 +1,7 @@
+body {
+    margin: 100px;
+}
+
 #TITRE {
     text-align: center;
     font-family: gotham;
@@ -6,20 +10,16 @@
 }
 
 h1 {
-    font-size: 100px;
     text-shadow: 2px 2px 30px rgb(75, 70, 70);
-    margin: 50px;
-    justify-content: center;
-    text-align: center;
 }
 
 .grille {
-    max-width: 1200px;
-    width: 80%;
+    max-width: 1000px;
+    width: 70%;
     height: auto;
-    margin: 10px auto;
+    margin: 20px auto;
     display: grid;
-    grid-template-columns: repeat(auto-fill, 200px);
+    grid-template-columns: repeat(auto-fill, 100px);
     justify-content: center;
     grid-gap: 10px;
 }
