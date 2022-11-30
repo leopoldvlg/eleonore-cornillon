@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 #TITRE {
     text-align: center;
     font-family: gotham;
@@ -6,9 +11,10 @@
 
 h1 {
     text-align: left;
-    font-size: 200%;
+    font-size: 100%;
     text-shadow: 2px 2px 30px rgb(75, 70, 70);
-    margin: 50px;
+    margin: 10px;
+    padding-top: -10;
     text-decoration : none;
     list-style: none;
 }
