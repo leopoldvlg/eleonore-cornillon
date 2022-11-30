@@ -9,6 +9,8 @@ h1 {
     font-size: 100px;
     text-shadow: 2px 2px 30px rgb(75, 70, 70);
     margin: 50px;
+    justify-content: center;
+    text-align: center;
 }
 
 .grille {
