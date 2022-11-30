@@ -10,6 +10,7 @@ h1 {
     text-shadow: 2px 2px 30px rgb(75, 70, 70);
     margin: 50px;
     text-decoration : none;
+    list-style: none;
 }
 
 #TITRE img{
