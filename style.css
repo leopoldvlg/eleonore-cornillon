@@ -1,0 +1,31 @@
+#TITRE {
+    text-align: center;
+    font-family: gotham;
+    margin: 50px 0;
+}
+
+h1 {
+    font-size: 100px;
+    text-shadow: 2px 2px 30px rgb(75, 70, 70);
+    margin: 50px;
+}
+
+.grille {
+    max-width: 1200px;
+    width: 80%;
+    height: auto;
+    margin: 10px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    justify-content: center;
+    grid-gap: 10px;
+}
+
+.grid-item {
+    width: 200px;
+    height: 100px;
+}
+
+img {
+    width: 50%;
+}

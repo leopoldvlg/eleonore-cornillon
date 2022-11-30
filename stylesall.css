@@ -1,0 +1,25 @@
+#TITRE {
+    text-align: center;
+    font-family: gotham;
+    margin: 50px 0;
+}
+
+h1 {
+    text-align: left;
+    font-size: 200%;
+    text-shadow: 2px 2px 30px rgb(75, 70, 70);
+    margin: 50px;
+    text-decoration : none;
+}
+
+#TITRE img{
+    width: 20%;
+    margin-bottom: 100px;
+}
+
+#TITRE h2 {
+    text-align: center;
+    font-family: gotham;
+    margin: 50px 0;
+    font-size: 500%;
+}
